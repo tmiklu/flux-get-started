@@ -1,5 +1,5 @@
 bases:
- - deploy.yml
+ - ./deploy.yml
 
 patches:
- - patch.yml
+ - ./patch.yml
