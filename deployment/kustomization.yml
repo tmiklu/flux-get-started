@@ -1,0 +1,5 @@
+bases:
+ - deploy.yml
+
+patches:
+ - patch.yml
