@@ -179,7 +179,7 @@ spec:
         - --ssh-keygen-dir=/var/fluxd/keygen
         - --git-url=git@github.com:tmiklu/flux-get-started
         - --git-branch=master
-        - --git-path=deployment
+        - --git-path=deployment, fluxcd
         - --git-label=flux
         - --git-user=tmiklu
         - --git-email=tmiklu@azet.sk
