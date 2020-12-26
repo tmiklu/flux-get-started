@@ -29,7 +29,7 @@ spec:
         - --git-path=deployment
         - --git-label=flux
         - --git-user=tmiklu
-        - --sync-interval=3m
+        - --sync-interval=1m
         - --git-email=tmiklu@example.com
         - --listen-metrics=:3031
         image: docker.io/fluxcd/flux:1.21.0
